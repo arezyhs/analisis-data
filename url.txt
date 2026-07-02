@@ -1,1 +1,1 @@
-https://aq-beijing-submission.streamlit.app/
+https://arezyhs-dicoding-aq.streamlit.app/
